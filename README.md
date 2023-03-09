@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Pursuing a second degree in CS, currently learning C++, and hopefully more after cmd-f!
+
+More to come in the future!
